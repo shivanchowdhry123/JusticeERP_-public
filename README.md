@@ -14,7 +14,7 @@ The ultimate goal of JusticeStack is to replace fragmented, cloud-dependent lega
 ### Key Architectural Pillars (Subject to Evolution):
 * **Local-First Data Storage:** All client intake data, case logs, and sensitive litigation documents stay on the lawyer's physical machine or private network nodes.
 * **Context Isolation:** Independent virtual workspaces for different client matters to ensure zero data cross-contamination or accidental leakage.
-* **White-Label Ready:** Designed to seamlessly inherit individual firm branding (`<law firm name>` and logo spaces) rather than pushing third-party application branding onto the main interface.
+* **White-Label Ready:** Designed to seamlessly inherit individual firm branding (`<law firm name>` and `<lfl>` logo spaces) rather than pushing third-party application branding onto the main interface.
 * **Privacy-First Automation:** Leveraging localized AI and self-hosted communication protocols to ensure professional attorney-client privilege boundaries are naturally enforced by the software layer.
 
 ---
